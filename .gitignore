@@ -4,3 +4,5 @@ out
 out/
 .iml
 *.iml
+target/
+./target/*

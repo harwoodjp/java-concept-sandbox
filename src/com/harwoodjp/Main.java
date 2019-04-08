@@ -15,7 +15,8 @@ public class Main {
         //PolymorphismTest.run();
         //VendingMachineTest.run();
         //HashMapTest.run();
-        StreamTest.run();
+        //StreamTest.run();
+        OptionalTest.run();
     }
 
 }
