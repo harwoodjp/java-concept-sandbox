@@ -1,9 +1,8 @@
-package com.harwoodjp.Tests;
-
 import java.util.Optional;
 
 public class OptionalTest {
-	public static void run() {
+	public static void run() { 
+		
 		Optional<String> opt = Optional.empty();
 		
 		if (opt.isPresent())

@@ -1,5 +1,3 @@
-package com.harwoodjp.Tests;
-
 public class EqualsTest {
     public static void run() {
         String string1 = new String("Hello");

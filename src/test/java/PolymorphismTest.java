@@ -1,5 +1,3 @@
-package com.harwoodjp.Tests;
-
 import com.harwoodjp.Classes.Circle;
 import com.harwoodjp.Classes.Triangle;
 import com.harwoodjp.Interfaces.ShapeInterface;

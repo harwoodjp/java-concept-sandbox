@@ -1,5 +1,3 @@
-package com.harwoodjp.Tests;
-
 import static java.util.stream.Collectors.groupingBy;
 
 import java.util.HashMap;

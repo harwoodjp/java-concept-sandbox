@@ -1,7 +1,5 @@
 package com.harwoodjp;
 
-import com.harwoodjp.Tests.*;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -16,7 +14,8 @@ public class Main {
         //VendingMachineTest.run();
         //HashMapTest.run();
         //StreamTest.run();
-        OptionalTest.run();
+        //OptionalTest.run();
+        //PropertiesTest.run();
     }
 
 }

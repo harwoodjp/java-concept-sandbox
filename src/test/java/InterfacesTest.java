@@ -1,5 +1,3 @@
-package com.harwoodjp.Tests;
-
 import com.harwoodjp.Classes.Dog;
 
 public class InterfacesTest {

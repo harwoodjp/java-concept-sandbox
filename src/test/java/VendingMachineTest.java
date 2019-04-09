@@ -1,5 +1,3 @@
-package com.harwoodjp.Tests;
-
 import com.harwoodjp.Classes.VendingMachine.VendingMachine;
 import com.harwoodjp.Classes.VendingMachine.Product;
 
