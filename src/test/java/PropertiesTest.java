@@ -23,7 +23,7 @@ public class PropertiesTest {
 
 		try {
 			input = new FileInputStream("/Users/justin.harwood/Projects/Misc/java-concept-sandbox/src/main/java/com/harwoodjp/Resources/foo.properties");
-			//input = PropertiesTest.class.getClassLoader().getResourceAsStream("fqoo.properties");
+			//input = PropertiesTest.class.getClassLoader().getResourceAsStream("resources.foo.properties");
 			props.load(input);
 			properties = props;
 		} catch (IOException e) {
