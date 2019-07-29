@@ -3,7 +3,7 @@ import com.harwoodjp.Classes.Dog;
 import com.harwoodjp.Classes.PetOwner;
 
 public class CompositionTest {
-    public static void run() {
+    public void run() {
         PetOwner justin = new PetOwner();
         Cat mocha = new Cat("Mocha");
         Cat gigi = new Cat("Gigi");
